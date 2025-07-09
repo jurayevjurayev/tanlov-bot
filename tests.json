@@ -1,0 +1,26 @@
+{
+  "tanlov_1": [
+    {
+      "savol": "O‘zbekiston poytaxti qaysi shahar?",
+      "variantlar": ["Toshkent", "Samarqand", "Buxoro", "Xiva"],
+      "javob": "Toshkent"
+    },
+    {
+      "savol": "3 × 3 nechiga teng?",
+      "variantlar": ["6", "7", "8", "9"],
+      "javob": "9"
+    },
+    {
+      "savol": "Python qaysi turdagi dasturlash tili?",
+      "variantlar": ["Veb", "Mobil", "Skript", "Grafik"],
+      "javob": "Skript"
+    }
+  ],
+  "tanlov_2": [
+    {
+      "savol": "Yer quyosh atrofida nechanchi sayyora?",
+      "variantlar": ["1", "2", "3", "4"],
+      "javob": "3"
+    }
+  ]
+}
